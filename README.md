@@ -10,3 +10,5 @@
 ![WhatsApp Image 2022-03-04 at 4 16 03 PM](https://user-images.githubusercontent.com/97268104/156750973-27b54add-9e91-4589-9dc9-97390344dadc.jpeg)
 ![Screenshot 2022-03-04 155918 (3)](https://user-images.githubusercontent.com/97268104/156747677-f96eaf08-8739-48e9-8181-57f383cea42f.png)
 # Repo-06
+![Launching circuit](https://user-images.githubusercontent.com/97268104/161372080-89abb6df-e489-4b67-b1d2-4093eb6f5fab.png)
+![complete circuit](https://user-images.githubusercontent.com/97268104/161372156-2669ed74-baa6-4043-8032-ba27e9f3085d.png)
