@@ -12,3 +12,4 @@
 # Repo-06
 ![Launching circuit](https://user-images.githubusercontent.com/97268104/161372080-89abb6df-e489-4b67-b1d2-4093eb6f5fab.png)
 ![complete circuit](https://user-images.githubusercontent.com/97268104/161372156-2669ed74-baa6-4043-8032-ba27e9f3085d.png)
+![INAL MODEL](https://user-images.githubusercontent.com/97268104/161738803-f5b025c5-e41d-4ec2-b7d3-f5cd516324ea.png)
